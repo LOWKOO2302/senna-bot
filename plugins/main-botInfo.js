@@ -61,10 +61,10 @@ let infobt = `
   
  *≡ CEO*
   *ᏝᎧᏇᏦᎧᎧ ➘ 👽*
-  ▢ WhatsApp : wa.me/7745198093'
+  ▢ WhatsApp : wa.me/17745198093'
   
   *Sandy*
-  ▢ WhatsApp : wa.me/059690654647`
+  ▢ WhatsApp : wa.me/+590690654647`
 
 /*conn.sendButton(m.chat, infobt, mssg.ig, null, [
   ['ꨄ︎ Apoyar', `${usedPrefix}donate`],
