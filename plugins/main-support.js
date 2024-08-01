@@ -9,7 +9,7 @@ m.reply(`
  'https://chat.whatsapp.com/Ke1Aghdz0QVII6kyXSQv7E'
 
 ▢ ┃𒀭⛓️𝜩ⲚᏝ𐤠Ꮸ𝜩Ⲋ 𒂶 Ꭾ𝜩Ꮭ༏ᏨปᏝ𐤠Ⲋ ⁿᵉᵗᶠˡⁱˣ ᵒⁿˡⁱⁿᵉ 🍿 𒀭┃
- 'https://chat.whatsapp.com/HvzT09WBkuG9DIa7e4zMuE'
+' https://chat.whatsapp.com/HvzT09WBkuG9DIa7e4zMuE'
 
 ▢ ┃🖲️⃢🎮 ꤈𝜩Ƭ'𝚂 Ƿ꤈𐤠ⲩ 𒂶 ᒍꪙ𝜩ᏵⲞⲊ 𐤠ᴾᴷˢ ꖾᴬᶜᴷˢ 📲⃢🍿┃
  'https://chat.whatsapp.com/Hq2bBBAg3bpBDo1Zrpfw3Y'
@@ -24,7 +24,7 @@ m.reply(`
  'https://chat.whatsapp.com/EST7ZYKGBvQ2v4ZSTHIGSd'
 
 ▢ ┃✨💓⃤Ɯ𐤠꤈꤈Ꭾ𐤠Ꭾ𝜩☈'Ⲋ  𒂶  Ꝼ𐔖ꤚⱰ𐔖Ⲋ  Ɗᵉ  Ꭾᵃⁿᵗᵃˡˡᵃˢ 🌌⃤✨┃
- 'https://chat.whatsapp.com/FTfdyf392efG8Zazl6zrMC'
+ ' https://chat.whatsapp.com/FTfdyf392efG8Zazl6zrMC'
  
 ▢ ┃🖤 😈 丂ㄒ🩸匚Ҝ乇尺丂 🥵 𒂶 💦 𐤠ᵈᵘˡᵗᵒˢ ➊➑⁺ 𒀭 🤤 🤍 ┃
  'https://chat.whatsapp.com/Bkh5CjKhZit5XnbK0DaRRi'
