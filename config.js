@@ -32,7 +32,7 @@ global.fgpyp = 'https://paypal.me/fg98f'
 global.fglog = 'https://i.ibb.co/1zdz2j3/logo.jpgs' 
 
 //--- Grupos WA
-global.id_canal = '120363177092661333@newsletter' //-ID de canal de WhatsApp
+global.id_canal = 'https://www.facebook.com/share/J9wPnWczeFD4A2pV/?mibextid=A7sQZp' //-ID de canal de WhatsApp
 global.fgcanal = 'https://chat.whatsapp.com/GtXAWDlphvw3XHcb7scmdw'
 global.bgp = 'https://chat.whatsapp.com/Hq2bBBAg3bpBDo1Zrpfw3Y'
 global.bgp2 = 'https://chat.whatsapp.com/EST7ZYKGBvQ2v4ZSTHIGSd'
